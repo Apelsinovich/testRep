@@ -1,1 +1,2 @@
-task4
+Program arguments test4.txt
+Working directory = $MODULE_WORKING_DIR$
